@@ -21,4 +21,5 @@ I am a **Hybrid Technical Lead** based in Hong Kong, with over 8 years of experi
 
 ### 📫 Let's Connect
 - **Location:** Hong Kong SAR
+- **LinkedIn:** [Ka Yeung Ling](https://www.linkedin.com/in/marsling/)
 - Open to connecting with innovators in the AI, Frontend, and Spatial Computing space!
